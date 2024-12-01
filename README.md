@@ -21,12 +21,12 @@ This is a Python-based Chess game where you can play in two modes:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chess-ai-project.git
-   cd chess-ai-project
+   git clone https://github.com/Prince-programmer/pychess
+   cd pychess
 
 2. Install the required dependencies:
    ```bash
-   pip install game
+   pip install pygame
    
 3. Run the game:
    ```bash
